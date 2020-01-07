@@ -7,4 +7,6 @@
 \f0\fs24 \cf0 # EXAMPLE REPOSITORY\
 \
 HELLO WORLD!\
-This a a test}
+This a a test\
+\
+Let\'92s see why git diff is not giving me what I want}
